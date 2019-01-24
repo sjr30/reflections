@@ -28,3 +28,4 @@ For the merged commit.
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+    Saves time, minimizes errors.
