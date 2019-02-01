@@ -10,3 +10,6 @@ Describe the differences between forks, clones, and branches. When would you use
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
        You can do git fetch and update only the origin/master branch, that way even when you are offline you can see the differences between origin/master branch and master branch and merge them.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+       Without Git or Github it would be very difficult to compare and merge changes especially when different people are working on the same file.
